@@ -1,0 +1,21 @@
+{
+  "name": "5minnode2",
+  "version": "1.0.0",
+  "description": "sending info from diffrent server test",
+  "main": "server.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "origin https://github.com/Doncurt/5minnode2.git"
+  },
+  "author": "donovan adams",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.13"
+  }
+}
